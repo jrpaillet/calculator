@@ -16,5 +16,9 @@ public class Calculator() {
 	public double mutiply(double a, double b) {
 		return a * b;
 	}
+
+	public bool equals(int a, int b) {
+		return a==b;
+	}
 }
 
